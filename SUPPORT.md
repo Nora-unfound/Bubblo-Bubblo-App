@@ -6,4 +6,4 @@ For questions or support, contact:
 
 Email: xiaoyignding5@gmail.com 
 
-Privacy Policy: https://raw.githubusercontent.com/Nora-unfound/Bubblo/refs/heads/main/privacy-policy.md
+Privacy Policy: https://nora-unfound.github.io/Bubblo/privacy-policy.html
