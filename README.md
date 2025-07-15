@@ -28,4 +28,4 @@ This repository contains the official support and privacy policy pages for the B
 ### 🧑‍💻 Developer
 
 Created and maintained by **Nora**  
-📧 Contact: xiaoyignding5@gmail.com
+📧 Contact: meme.265833.com
